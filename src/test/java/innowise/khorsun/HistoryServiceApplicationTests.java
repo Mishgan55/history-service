@@ -8,3 +8,6 @@ class HistoryServiceApplicationTests {
 
     @Test
     void contextLoads() {
+    }
+
+}
